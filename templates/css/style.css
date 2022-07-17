@@ -1,0 +1,43 @@
+h1 {
+    color: black;
+    text-align: center;
+    padding: 20px;
+    padding-left: 20%;
+    padding-right: 30%;
+   
+
+}
+h2 {
+   
+    color:gainsboro ;
+    text-align: right;
+    font-size: small;
+    padding-top: 0%;
+    padding-right: 3%;
+   
+    
+}
+h3 {
+    font: bold;
+    padding-top: 0%;
+    padding-left: 3%;
+
+}
+
+p{
+   
+    font: italic;
+    width: 800px;
+    padding-left: 5%;
+}
+body {
+    background-image: radial-gradient(circle at 50% -20.71%, #cbe7e1 0,
+     #cae7e3 6.25%, #c9e7e6 12.5%, #c9e7e8 18.75%, #c9e7eb 25%,
+     #c9e7ed 31.25%, #cae6ef 37.5%, #cbe6f1 43.75%, #cde5f2 50%,
+    #cfe4f3 56.25%, #d1e4f4 62.5%, #d4e3f5 68.75%, #d7e2f5 75%,
+     #dae1f5 81.25%, #dde0f4 87.5%, #e0e0f4 93.75%, #e3dff2 100%);
+}
+p2 {
+    font-style: italic;
+    
+}
